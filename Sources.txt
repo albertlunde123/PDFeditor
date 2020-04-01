@@ -1,0 +1,19 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Apr  1 14:31:10 2020
+
+@author: Administrator
+
+Sources:
+
+pypdf2 dokumentering    
+https://pythonhosted.org/PyPDF2/index.html
+
+remove pages
+https://stackoverflow.com/questions/39574096/how-to-delete-pages-from-pdf-file-using-python
+
+OCR
+https://medium.com/@winston.smith.spb/python-ocr-for-pdf-or-compare-textract-pytesseract-and-pyocr-acb19122f38c
+"""
+
+
